@@ -1,0 +1,52 @@
+{
+  "clothes": [
+    {
+      "id": 1,
+      "title": "Polo T-shirt black",
+      "brand": "Polo",
+      "category": "t-shirt",
+      "price": "109",
+      "image": "https://www.target.com.au/medias/static_content/product/images/full/22/89/A1382289.jpg?impolicy=product_portrait_hero"
+    },
+    {
+      "id": 2,
+      "title": "Polo T-shirt white",
+      "brand": "Polo",
+      "category": "t-shirt",
+      "price": "109",
+      "image": "https://www.target.com.au/medias/static_content/product/images/hero/22/90/A1382290.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Loro piano black",
+      "brand": "Loro piano",
+      "category": "coat",
+      "price": "229",
+      "image": "https://www.madisonavenuemalls.com/wp-content/uploads/2016/05/Cashmere-Coat-Black-Wool-Wrap-Coat-Loro-Piana%C3%A2-%C2%A2-Shawl-Collar-52.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Loro piano khaki",
+      "brand": "Loro piano",
+      "category": "coat",
+      "price": "259",
+      "image": "https://www.net-a-porter.com/variants/images/43769801095740698/ou/w2000_q60.jpg"
+    },
+    {
+      "id": 5,
+      "title": "YNEZ SWEATSHIRT green",
+      "brand": "Velvet",
+      "category": "sweatshirt",
+      "price": "29",
+      "image": "https://cdn.shopify.com/s/files/1/3050/6604/products/organic-flc-ynez04-dillweed-zuma04-beach_1775.jpg?v=1664236885"
+    },
+    {
+      "id": 6,
+      "title": "YNEZ SWEATSHIRT black",
+      "brand": "Velvet",
+      "category": "sweatshirt",
+      "price": "24",
+      "image": "https://img-lcwaikiki.mncdn.com/mnresize/480/-/pim/productimages/20222/6216839/v1/l_20222-w2hf19z8-cvl-82-60-90-175_a1.jpg"
+    }
+  ]
+}
